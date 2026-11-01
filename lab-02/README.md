@@ -1,14 +1,14 @@
 # Lab 2: SQLite database and CRUD routes
 
-- **Name:** G.S.RITWIK
-- **Registration Number:** 252U1R9036
+- **Name:** A. CHARAN REDDY
+- **Registration Number:** 252U1R9012
 - **Section:** CSE-GEN-AI-2A-304
 - **Course:** Backend Development Fundamentals
 - **Lab Number:** 02
 
 ## Live Link
 
-**Deployment URL:** YOUR_LIVE_URL_HERE
+**Deployment URL:** https://bdf-lab-reports-vbgt.onrender.com/
 
 *(If the project cannot be deployed, replace this line with the reason and rely on the Postman screenshots below.)*
 
